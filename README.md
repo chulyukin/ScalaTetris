@@ -19,7 +19,7 @@
 1) Загрузить проект в директорию проектов IntelliJ IDEA 2025.1.2 (Community Edition):
 ```console
 cd ~/IdeaProjects
-git clone https://github.com/chulyukin/acala_tetris.git
+git clone https://github.com/chulyukin/ScalaTetris.git
 ```
 2) Открыть проект в среде IntelliJ IDEA 2025.1.2
 3) Далее выполнить команду сборки
